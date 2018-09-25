@@ -19,4 +19,3 @@ var toLowerCase = function (str) {
   }
   return newStr
 }
-toLowerCase('al&phaBET')
